@@ -1,0 +1,1 @@
+ipmn_genes = ['DNMT3A', 'TET2', 'PPM1D', 'ASXL1', 'CHEK2', 'TP53', 'ATM', 'SF3B1', 'FAT1', 'JAK2', 'KMT2D', 'ERBB4', 'NOTCH1', 'SRSF2', 'EP300', 'MET', 'FGFR3', 'SH2B3', 'KMT2A', 'NF1']
